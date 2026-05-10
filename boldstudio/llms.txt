@@ -1,6 +1,6 @@
 # Bold Studio
 
-> Bold Studio er en frisørsalong, barbershop og neglesalong i Stavanger sentrum, Norge. Vi er spesialister på hair extensions, balayage, frisør og barber. Tape- og keratin extensions, airbrush balayage, foliage-teknikk, herreklipp og fade, samt gele-negler under ett tak.
+> Bold Studio er en frisørsalong, barbershop, neglesalong og makeup-studio i Stavanger sentrum, Norge. Vi er spesialister på hair extensions, balayage, frisør, barber, makeup og bryn-behandlinger. Tape- og keratin extensions, airbrush balayage, foliage-teknikk, herreklipp og fade, gele-negler, samt profesjonell makeup, bryn-lamination, lash lift og tinting under ett tak.
 
 ## Om oss
 
@@ -11,6 +11,7 @@ Bold Studio ligger i Prestegårdsbakken 12 B, 4005 Stavanger. Salongen ble grunn
 - **Ionela Ecaterina Matepiuc** — Frisør og grunnlegger. Over 15 års erfaring innen farge, balayage og hair extensions. Trent i Wella Master Color-teknikker og airbrush balayage. Best egnet for: balayage, farge, hair extensions, dameklipp.
 - **Constantin Olaru** — Profesjonell barber. Over 10 års erfaring med klassiske barber-teknikker og moderne fades. Best egnet for: herreklipp, fade, crop, skjeggstrimming.
 - **Ruta Dudeniene (NAILS BY RD)** — Sertifisert negletekniker, 5+ års erfaring. Best egnet for: gele-negler, gel extensions, manikyr, nail art.
+- **Marija** — Profesjonell makeup artist med 10+ års erfaring. Akademisk utdannet kunstner. Best egnet for: makeup, bryn-threading, ansiktsthreading, bryn-lamination, lash lift, lash tinting.
 
 ## Tjenester og priser (fra)
 
@@ -33,13 +34,19 @@ Bold Studio ligger i Prestegårdsbakken 12 B, 4005 Stavanger. Salongen ble grunn
 - Gele etterfyll: 940 NOK
 - Manikyr: 400 NOK
 
-## Ofte stilte spørsmål (full versjon: https://boldstudio.no/faq)
+### Makeup & Bryn (hos Marija)
+- Profesjonell makeup (pris kommer)
+- Bryn-threading & ansiktsthreading (pris kommer)
+- Bryn-lamination (pris kommer)
+- Lash lift & lash tinting (pris kommer)
+
+## Ofte stilte spørsmål (full versjon: https://www.boldstudio.no/faq)
 
 **Hvor ligger Bold Studio?**
 Prestegårdsbakken 12 B, 4005 Stavanger — sentralt i Stavanger sentrum, kort gange fra Domkirken og Breiavatnet.
 
 **Hva er åpningstidene?**
-Åpningstidene varierer etter hvilken ekspert du booker. Ionela, Constantin og Ruta har hver sine timeplaner — se tilgjengelighet per stylist via Timma.no.
+Åpningstidene varierer etter hvilken ekspert du booker. Ionela, Constantin, Ruta og Marija har hver sine timeplaner — se tilgjengelighet per stylist via Timma.no.
 
 **Tilbyr dere hair extensions?**
 Ja — både tape extensions og keratin extensions hos Ionela. Naturlig resultat og skånsom applikasjon. Konsultasjon før behandling er inkludert.
@@ -58,7 +65,7 @@ Online via Timma.no — én lenke per ekspert (se nedenfor). Telefon mulig til h
 - Adresse: Prestegårdsbakken 12 B, 4005 Stavanger, Norge
 - Telefon: +47 98 08 13 72
 - E-post: post@boldstudio.no
-- Nettside: https://boldstudio.no/
+- Nettside: https://www.boldstudio.no/
 - Instagram: @boldstudio.stavanger
 - Geo: 58.96986, 5.73321
 
@@ -74,3 +81,4 @@ Book direkte via Timma.no:
 - Ionela (Hår, Farge, Balayage, Hair extensions): https://timma.no/salong/hair-spa-matepiuc
 - Constantin (Barber, Herreklipp, Fade): https://timma.no/salong/constantin-olaru-enk
 - Ruta (Negler, Gel extensions, Nail art): https://timma.no/salong/nails-by-rd-dudeniene
+- Marija (Makeup, Bryn, Lash lift, Lash tinting): https://timma.no/salong/make-up-by-marija

@@ -10,6 +10,9 @@
     Certified Nail Technician: Ruta Dudeniene (NAILS BY RD)
     Specialty: Gele-negler, gel extensions, nail art
 
+    Professional Makeup Artist: Marija
+    Specialty: Makeup, brow & facial threading, brow lamination, lash lift, lash tinting
+
 /* LOCATION */
 
     Bold Studio

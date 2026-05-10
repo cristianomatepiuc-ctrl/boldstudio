@@ -2,6 +2,12 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": true,
   "trailingSlash": false,
+  "redirects": [
+    { "source": "/om",                  "destination": "/#om-oss",     "permanent": true },
+    { "source": "/online-booking",      "destination": "/#kontakt",    "permanent": true },
+    { "source": "/avbestillingsvilkar", "destination": "/faq",         "permanent": true },
+    { "source": "/gavekort",            "destination": "/",            "permanent": true }
+  ],
   "headers": [
     {
       "source": "/(.*)",

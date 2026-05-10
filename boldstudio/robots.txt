@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://boldstudio.no/sitemap.xml
+Sitemap: https://www.boldstudio.no/sitemap.xml
 
 # Search engines
 User-agent: Googlebot
